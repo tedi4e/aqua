@@ -1,2 +1,2 @@
 # aqua
-Safe and cleam water
+Safe and clean water
